@@ -1,4 +1,4 @@
-## Olá! Eu sou o Mizael-Silva14 👋
+## Olá! Eu sou o Mizael Silva 👋
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudando Javascript
